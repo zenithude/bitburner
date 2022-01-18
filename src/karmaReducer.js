@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const settings = {
   keys: {
     crimesStop: 'BB_CRIMES_STOP',

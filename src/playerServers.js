@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const settings = {
   maxPlayerServers: 25,
   gbRamCost: 55000,

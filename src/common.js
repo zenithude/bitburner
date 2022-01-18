@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 export function settings() {
   return {
     minSecurityLevelOffset: 2,

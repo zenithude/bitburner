@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 // based on https://github.com/Penndrageist/bitburner-scripts/blob/master/scripts/HackingMission.js.js
 ;(function (document) {
   const settings = {

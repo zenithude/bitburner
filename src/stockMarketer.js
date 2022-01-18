@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const stockSymbols = ['ECP', 'BLD', 'OMTK', 'FSIG', 'FLCM', 'CTYS']
 const avgTrackers = {}
 const profitTrackers = {}

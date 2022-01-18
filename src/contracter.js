@@ -1,4 +1,7 @@
+/** @param {NS} ns **/
+
 // Based on https://github.com/danielyxie/bitburner/blob/master/src/data/codingcontracttypes.ts
+
 const settings = {
   keys: {
     serverMap: 'BB_SERVER_MAP',

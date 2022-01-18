@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const commission = 100000
 let stockSymbols
 

@@ -1,3 +1,4 @@
+/** @param {NS} ns **/
 clearInterval(autoHack)
 
 let autoHack = setInterval(() => {

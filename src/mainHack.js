@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const settings = {
   homeRamReserved: 20,
   homeRamReservedBase: 20,

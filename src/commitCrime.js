@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const settings = {
   keys: {
     crimes: 'BB_CRIMES',

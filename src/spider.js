@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 import { settings, setItem } from 'common.js'
 
 const hackPrograms = ['BruteSSH.exe', 'FTPCrack.exe', 'relaySMTP.exe', 'HTTPWorm.exe', 'SQLInject.exe']

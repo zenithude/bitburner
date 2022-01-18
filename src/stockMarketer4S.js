@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 let stockSymbols
 let corpus
 let underperformingShares

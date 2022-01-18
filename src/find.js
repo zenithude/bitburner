@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const settings = {
   keys: {
     serverMap: 'BB_SERVER_MAP',

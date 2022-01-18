@@ -1,3 +1,5 @@
+/** @param {NS} ns **/
+
 const settings = {
   keys: {
     buyEquipment: 'BB_BUY_EQUIPMENT',
