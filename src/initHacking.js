@@ -12,6 +12,8 @@ const filesToDownload = [
   'killAll.js',
   'runHacking.js',
   'find.js',
+  'mainHack_zen.js',
+  'commitCrime.js'
 ]
 const valuesToRemove = ['BB_SERVER_MAP']
 
